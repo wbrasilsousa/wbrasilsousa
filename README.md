@@ -19,8 +19,6 @@
 
 <a href='https://wbrasil.pythonanywhere.com/'>wbrasil.pythonanywhere.com</a>
 
-<br>
-
 ### Sobre mim
 
 Sou desenvolvedor de software com mais de 18 anos de experiência, focado em Python e PHP.<br>
