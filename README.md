@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Senior Full Stack Developer • PHP • Python • AI • AI Agents
+Senior Full Stack Developer • PHP • Python
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ I'm a **Senior Full Stack Developer** with **20+ years of experience** building 
 
 My main expertise is **PHP** and **Python**, but throughout my career I've worked across the entire software lifecycle—from requirements analysis and system architecture to deployment, maintenance and legacy migrations.
 
-More recently I've been focused on **Artificial Intelligence**, **LLM applications** and **AI Agents**, integrating modern AI workflows into real-world products.
+More recently I've been focused on **Artificial Intelligence** and **AI Agents**, integrating modern AI workflows into real-world products.
 
 ---
 
