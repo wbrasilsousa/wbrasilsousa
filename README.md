@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Senior Full Stack Developer • Python • PHP • AI • AI Agents
+Senior Full Stack Developer • PHP • Python • AI • AI Agents
 </p>
 
 <p align="center">
