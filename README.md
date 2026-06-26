@@ -26,7 +26,7 @@ Senior Full Stack Developer • Python • PHP • AI • AI Agents
 
 I'm a **Senior Full Stack Developer** with **20+ years of experience** building web applications, SaaS platforms and enterprise systems.
 
-My main expertise is **Python** and **PHP**, but throughout my career I've worked across the entire software lifecycle—from requirements analysis and system architecture to deployment, maintenance and legacy migrations.
+My main expertise is **PHP** and **Python**, but throughout my career I've worked across the entire software lifecycle—from requirements analysis and system architecture to deployment, maintenance and legacy migrations.
 
 More recently I've been focused on **Artificial Intelligence**, **LLM applications** and **AI Agents**, integrating modern AI workflows into real-world products.
 
@@ -36,9 +36,9 @@ More recently I've been focused on **Artificial Intelligence**, **LLM applicatio
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 
@@ -50,7 +50,6 @@ More recently I've been focused on **Artificial Intelligence**, **LLM applicatio
 
 ### AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-4B8BBE?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge)
@@ -80,23 +79,3 @@ More recently I've been focused on **Artificial Intelligence**, **LLM applicatio
 - Workflow Automation
 - Multi-tenant Systems
 - Legacy Modernization
-
----
-
-## 📈 GitHub Activity
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-<a href="https://github.com/wbrasilsousa#gh-light-mode-only">
-<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only">
-</a>
-
-<a href="https://github.com/wbrasilsousa#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</a>
-
-</td>
-</tr>
-</table>
